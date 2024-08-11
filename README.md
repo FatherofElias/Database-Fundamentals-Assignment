@@ -1,0 +1,1 @@
+This Repository has a link to a diagram that from my understanding should absolutely satisfy both Tasks 1 & 2 I didn't know how to push it to git any other way I apologize if I did it wrong thank you so much I appreciate you!
